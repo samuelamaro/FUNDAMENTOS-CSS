@@ -1,0 +1,11 @@
+body
+  {
+    background: #000000;
+    color: white;
+    font-family: verdana;
+  }
+
+#imagengrande
+  {
+   width: 10%;
+  }
